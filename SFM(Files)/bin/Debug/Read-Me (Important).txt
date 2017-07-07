@@ -1,0 +1,15 @@
+This is a sample of offline project 
+
+=================================================================
+                  ||| How To Use |||
+=================================================================
+1 - Run Sample.exe
+2 - Press Load
+3 - Load The (Data.xml) File provided 
+4 - Now Use The Program Features 
+5 - You can save the File ordered by As you wish
+==================================================================
+
+* Notice *
+
+This is just a sample i can do  (online - offline) projects . 

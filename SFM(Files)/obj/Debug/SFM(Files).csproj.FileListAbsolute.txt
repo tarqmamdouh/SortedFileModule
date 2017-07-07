@@ -1,0 +1,61 @@
+C:\Users\Abdullah Medhat\Desktop\SFM\SFM(Files)\SFM(Files)\bin\Debug\SFM(Files).exe.config
+C:\Users\Abdullah Medhat\Desktop\SFM\SFM(Files)\SFM(Files)\bin\Debug\SFM(Files).exe
+C:\Users\Abdullah Medhat\Desktop\SFM\SFM(Files)\SFM(Files)\bin\Debug\SFM(Files).pdb
+C:\Users\Abdullah Medhat\Desktop\SFM\SFM(Files)\SFM(Files)\obj\Debug\SFM(Files).csprojResolveAssemblyReference.cache
+C:\Users\Abdullah Medhat\Desktop\SFM\SFM(Files)\SFM(Files)\obj\Debug\SFM_Files_.Form1.resources
+C:\Users\Abdullah Medhat\Desktop\SFM\SFM(Files)\SFM(Files)\obj\Debug\SFM_Files_.Properties.Resources.resources
+C:\Users\Abdullah Medhat\Desktop\SFM\SFM(Files)\SFM(Files)\obj\Debug\SFM(Files).csproj.GenerateResource.Cache
+C:\Users\Abdullah Medhat\Desktop\SFM\SFM(Files)\SFM(Files)\obj\Debug\SFM(Files).exe
+C:\Users\Abdullah Medhat\Desktop\SFM\SFM(Files)\SFM(Files)\obj\Debug\SFM(Files).pdb
+C:\Users\Abdullah Medhat\Desktop\SFM\SFM(Files)\SFM(Files)\obj\Debug\SFM_Files_.Add_Employee.resources
+D:\my work\Second Year Projects\SFM(Files)\SFM(Files)\bin\Debug\SFM(Files).exe.config
+D:\my work\Second Year Projects\SFM(Files)\SFM(Files)\obj\Debug\SFM(Files).exe
+D:\my work\Second Year Projects\SFM(Files)\SFM(Files)\obj\Debug\SFM(Files).pdb
+D:\my work\Second Year Projects\SFM(Files)\SFM(Files)\bin\Debug\SFM(Files).exe
+D:\my work\Second Year Projects\SFM(Files)\SFM(Files)\bin\Debug\SFM(Files).pdb
+D:\my work\Second Year Projects\SFM(Files)\SFM(Files)\obj\Debug\SFM(Files).csprojResolveAssemblyReference.cache
+D:\my work\Second Year Projects\SFM(Files)\SFM(Files)\obj\Debug\SFM_Files_.Add_Employee.resources
+D:\my work\Second Year Projects\SFM(Files)\SFM(Files)\obj\Debug\SFM_Files_.Main.resources
+D:\my work\Second Year Projects\SFM(Files)\SFM(Files)\obj\Debug\SFM_Files_.Properties.Resources.resources
+D:\my work\Second Year Projects\SFM(Files)\SFM(Files)\obj\Debug\SFM(Files).csproj.GenerateResource.Cache
+C:\Users\Abdullah Medhat\Desktop\SFM\SFMFiles\SFM(Files)\SFM(Files)\bin\Debug\SFM(Files).exe.config
+C:\Users\Abdullah Medhat\Desktop\SFM\SFMFiles\SFM(Files)\SFM(Files)\obj\Debug\SFM(Files).exe
+C:\Users\Abdullah Medhat\Desktop\SFM\SFMFiles\SFM(Files)\SFM(Files)\obj\Debug\SFM(Files).pdb
+C:\Users\Abdullah Medhat\Desktop\SFM\SFMFiles\SFM(Files)\SFM(Files)\bin\Debug\SFM(Files).exe
+C:\Users\Abdullah Medhat\Desktop\SFM\SFMFiles\SFM(Files)\SFM(Files)\bin\Debug\SFM(Files).pdb
+C:\Users\Abdullah Medhat\Desktop\SFM\SFMFiles\SFM(Files)\SFM(Files)\obj\Debug\SFM(Files).csprojResolveAssemblyReference.cache
+C:\Users\Abdullah Medhat\Desktop\SFM\SFMFiles\SFM(Files)\SFM(Files)\obj\Debug\SFM_Files_.Add_Employee.resources
+C:\Users\Abdullah Medhat\Desktop\SFM\SFMFiles\SFM(Files)\SFM(Files)\obj\Debug\SFM_Files_.Edit_Employee.resources
+C:\Users\Abdullah Medhat\Desktop\SFM\SFMFiles\SFM(Files)\SFM(Files)\obj\Debug\SFM_Files_.Main.resources
+C:\Users\Abdullah Medhat\Desktop\SFM\SFMFiles\SFM(Files)\SFM(Files)\obj\Debug\SFM_Files_.Properties.Resources.resources
+C:\Users\Abdullah Medhat\Desktop\SFM\SFMFiles\SFM(Files)\SFM(Files)\obj\Debug\SFM_Files_.Search.resources
+C:\Users\Abdullah Medhat\Desktop\SFM\SFMFiles\SFM(Files)\SFM(Files)\obj\Debug\SFM(Files).csproj.GenerateResource.Cache
+D:\my work\Second Year Projects\SFM(Files)\SFM(Files)\obj\Debug\SFM_Files_.Edit_Employee.resources
+D:\my work\Second Year Projects\SFM(Files)\SFM(Files)\obj\Debug\SFM_Files_.Search.resources
+D:\my work\Second Year Projects\SFM(Files)\SFM(Files)\obj\Debug\SFM_Files_.Save.resources
+C:\Users\Abdullah Medhat\Desktop\SFM\SFM_Files_\SFM(Files)\SFM(Files)\bin\Debug\SFM(Files).exe.config
+C:\Users\Abdullah Medhat\Desktop\SFM\SFM_Files_\SFM(Files)\SFM(Files)\obj\Debug\SFM(Files).exe
+C:\Users\Abdullah Medhat\Desktop\SFM\SFM_Files_\SFM(Files)\SFM(Files)\obj\Debug\SFM(Files).pdb
+C:\Users\Abdullah Medhat\Desktop\SFM\SFM_Files_\SFM(Files)\SFM(Files)\bin\Debug\SFM(Files).exe
+C:\Users\Abdullah Medhat\Desktop\SFM\SFM_Files_\SFM(Files)\SFM(Files)\bin\Debug\SFM(Files).pdb
+C:\Users\Abdullah Medhat\Desktop\SFM\SFM_Files_\SFM(Files)\SFM(Files)\obj\Debug\SFM(Files).csprojResolveAssemblyReference.cache
+C:\Users\Abdullah Medhat\Desktop\SFM\SFM_Files_\SFM(Files)\SFM(Files)\obj\Debug\SFM_Files_.Add_Employee.resources
+C:\Users\Abdullah Medhat\Desktop\SFM\SFM_Files_\SFM(Files)\SFM(Files)\obj\Debug\SFM_Files_.Edit_Employee.resources
+C:\Users\Abdullah Medhat\Desktop\SFM\SFM_Files_\SFM(Files)\SFM(Files)\obj\Debug\SFM_Files_.Main.resources
+C:\Users\Abdullah Medhat\Desktop\SFM\SFM_Files_\SFM(Files)\SFM(Files)\obj\Debug\SFM_Files_.Properties.Resources.resources
+C:\Users\Abdullah Medhat\Desktop\SFM\SFM_Files_\SFM(Files)\SFM(Files)\obj\Debug\SFM_Files_.Save.resources
+C:\Users\Abdullah Medhat\Desktop\SFM\SFM_Files_\SFM(Files)\SFM(Files)\obj\Debug\SFM_Files_.Search.resources
+C:\Users\Abdullah Medhat\Desktop\SFM\SFM_Files_\SFM(Files)\SFM(Files)\obj\Debug\SFM(Files).csproj.GenerateResource.Cache
+D:\my work\College Projects\Second Year Projects\SFM(Files)\SFM(Files)\bin\Debug\SFM(Files).exe.config
+D:\my work\College Projects\Second Year Projects\SFM(Files)\SFM(Files)\obj\Debug\SFM(Files).exe
+D:\my work\College Projects\Second Year Projects\SFM(Files)\SFM(Files)\obj\Debug\SFM(Files).pdb
+D:\my work\College Projects\Second Year Projects\SFM(Files)\SFM(Files)\bin\Debug\SFM(Files).exe
+D:\my work\College Projects\Second Year Projects\SFM(Files)\SFM(Files)\bin\Debug\SFM(Files).pdb
+D:\my work\College Projects\Second Year Projects\SFM(Files)\SFM(Files)\obj\Debug\SFM(Files).csprojResolveAssemblyReference.cache
+D:\my work\College Projects\Second Year Projects\SFM(Files)\SFM(Files)\obj\Debug\SFM_Files_.Add_Employee.resources
+D:\my work\College Projects\Second Year Projects\SFM(Files)\SFM(Files)\obj\Debug\SFM_Files_.Edit_Employee.resources
+D:\my work\College Projects\Second Year Projects\SFM(Files)\SFM(Files)\obj\Debug\SFM_Files_.Main.resources
+D:\my work\College Projects\Second Year Projects\SFM(Files)\SFM(Files)\obj\Debug\SFM_Files_.Properties.Resources.resources
+D:\my work\College Projects\Second Year Projects\SFM(Files)\SFM(Files)\obj\Debug\SFM_Files_.Save.resources
+D:\my work\College Projects\Second Year Projects\SFM(Files)\SFM(Files)\obj\Debug\SFM_Files_.Search.resources
+D:\my work\College Projects\Second Year Projects\SFM(Files)\SFM(Files)\obj\Debug\SFM(Files).csproj.GenerateResource.Cache
